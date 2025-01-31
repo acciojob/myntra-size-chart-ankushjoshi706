@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+th,td{
+            border: 1px solid black;
+        }
+        th{
+            background-color: brown;
+            color: white;
+        }
+        table{
+            border-collapse: collapse;
+        }
+.td1{
+	text-align:left;
+}
+td{
+	text-align:right;
+}
